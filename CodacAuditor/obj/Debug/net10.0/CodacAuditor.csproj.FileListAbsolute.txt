@@ -1,0 +1,14 @@
+C:\CodacAuditor\bin\Debug\net10.0\CodacAuditor.exe
+C:\CodacAuditor\bin\Debug\net10.0\CodacAuditor.deps.json
+C:\CodacAuditor\bin\Debug\net10.0\CodacAuditor.runtimeconfig.json
+C:\CodacAuditor\bin\Debug\net10.0\CodacAuditor.dll
+C:\CodacAuditor\bin\Debug\net10.0\CodacAuditor.pdb
+C:\CodacAuditor\obj\Debug\net10.0\CodacAuditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodacAuditor\obj\Debug\net10.0\CodacAuditor.AssemblyInfoInputs.cache
+C:\CodacAuditor\obj\Debug\net10.0\CodacAuditor.AssemblyInfo.cs
+C:\CodacAuditor\obj\Debug\net10.0\CodacAuditor.csproj.CoreCompileInputs.cache
+C:\CodacAuditor\obj\Debug\net10.0\CodacAuditor.dll
+C:\CodacAuditor\obj\Debug\net10.0\refint\CodacAuditor.dll
+C:\CodacAuditor\obj\Debug\net10.0\CodacAuditor.pdb
+C:\CodacAuditor\obj\Debug\net10.0\CodacAuditor.genruntimeconfig.cache
+C:\CodacAuditor\obj\Debug\net10.0\ref\CodacAuditor.dll
